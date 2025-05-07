@@ -4,3 +4,23 @@ Centres d'administration (on bas de la page)
 --------------------------------------------------------------------------------------------
 Centre d'administration Exchange 
 src="https://github.com/hugomeyrin/o365-adminstudies/edit/main/Administrer%20la%20plateforme%20-%20D%C3%A9l%C3%A9guer%20des%20droits%20Exchange/exchange admin center.jpg"
+
+Tableau de board:
+rôles d'admnistrateur
+   autorisations 
+     Compliance management 
+     Discovery management 
+     Help desk <-- cliquer ici
+     ......
+
+Help Desk:
+  nom
+  Description
+  Portée d'écriture 
+  Rôles:
+    Reset Password 
+    User options 
+    View only recipients 
+
+Membres:
+ +  - 
