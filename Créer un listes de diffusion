@@ -11,3 +11,6 @@ Groupes
 
   Description
   Regroupe tous les utilisateurs pour pouvoir envoyer des mail a ces utilisateurs (distribution)
+
+  Option a cocher
+  "Autoriser les utilisateurs extérieurs à mon entreprise à envoyerun courrier à ce groupe de distribution" (desactivé/activé)
