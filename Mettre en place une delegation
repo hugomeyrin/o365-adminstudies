@@ -1,0 +1,27 @@
+Je veux donner un droit d'administrateur à un utilisateur en particulier:
+
+Je vais utilisateur 
+utilisateurs actifs 
+clique l'utilisateur 
+  va dans rôles ----- modifier 
+                       Utilisateur 
+                      Administrateur général
+                      Administrateur personnalisé <---  (j'ai plusieurs types d'administrateur)
+                                                        Adm de facturation 
+                                                        Adm de service Dynamics 365
+                                                        Adm d'accès à Customer LockBox 
+                                                        Adm Exchange 
+                                                        Adm du support technique 
+                                                        Adm Kaizala
+                                                        Adm de license 
+                                                        Adm de skype entreprise 
+                                                        Lecteur de confidentialité du Centre de messages 
+                                                        Lecteur du Centre de messages 
+                                                        Admin de service Power BI
+                                                        Lecteur de rapports 
+                                                        Admin des services fédéres 
+                                                        Admin Sharepoint 
+                                                        Admin des communications Teams 
+                                                        Spécialiste du support des communications Teams 
+                                                        Admin du service Teams
+                                                        Admin de Gestion des utilisteurs 
