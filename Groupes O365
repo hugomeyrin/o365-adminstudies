@@ -9,4 +9,22 @@ Groupe
   Office365 
   Liste de distribution
   Sécurité à extension messagerie 
-  Sécurité 
+-->  Sécurité 
+
+---------------------------------------------------
+nom: sharepoint_finance 
+details 
+ajouter
+------------------------------------------------------------
+cliquez sur groupe sharepoint_finance 
+   Nom                                                    Modifier 
+   Description                                        blablas   
+   Propriétaires                                          Modifier
+   Membres                                                Modifier    <----- cliquez ici
+
+
+----------------------------------------------------------------------------------------
++Ajouter des membres  <---- je vais pouvoir ajouter des utilisateurs 
+Afficher de membres 
+  Rechercher 
+
