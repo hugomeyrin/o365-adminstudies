@@ -1,0 +1,6 @@
+o365 il faudra être sur le serveur windows server pour faire un adsync quand on efface un utilisateur de l'Ad 
+quil puisse aussi étre effacé de O365 admin online 
+azure ADconnect a été installé sur le serveur AD avant (important)
+powershell as admin
+import-module adsync 
+start-adsyncsynccycle -policytype initial (toutes les comptes) ou delta
