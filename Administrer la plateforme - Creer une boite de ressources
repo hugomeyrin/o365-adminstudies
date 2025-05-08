@@ -1,0 +1,39 @@
+ressources (permets de reserver des ressources) 
+  * Salle et equipement 
+      +Ajouter
+         Ajout 
+            *Type : Salle
+                  nom 
+                  addresse de courrier 
+                  capacite 
+                  emplacement 
+                  Numero de telephone 
+
+                   Ajouter 
+
+              -->  Definir les options de planification 
+                         Autoriser la repetition des reunions 
+                         Autoriser la planification pendant les heures de travail uniquement 
+                         Refuser automatiquement les reunions en dehors des limites ci-dessous 
+                         fenetre de reservation 
+                         180 
+
+
+                         Duree maximale (heures)
+                         24 
+
+                         Accepter automatiquement les demandes de reunion (coche)
+           enregistrer 
+
+"cette fenetre defini la personnes que va prendre en charge la gestion des reservation de salle".....................................
+
+Modifier les options de reservation
+
+   Vous devez ajouter au moins 1 delegue lorsque le traitement automatique est desactive 
+
+   Ajouter des delegues 
+      boite de recherche des utilisateurs 
+
+    mettre le nom de lutilisateur 
+enregistrer 
+fermer 
