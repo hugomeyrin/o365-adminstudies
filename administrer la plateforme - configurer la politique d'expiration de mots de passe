@@ -1,0 +1,16 @@
+admin.microsoft.com 
+-->Parametres 
+      * securite et confidentialite 
+            * Strategies de mot de passe    modifier 
+                  Nombre de jours avant l'expiration des mots de passe 
+
+                           Definir les mots de passe des utilisateurs de telle sorte qu'ils n'expirent jamais 
+                               nombre de jours avantt l'expiration des mots de passe 
+                                        90 
+
+                               delai de notification de l'utilisateur avant l'expiration, en nombre de jours 
+                                        14 
+
+                               enregistrer
+ 
+                  
