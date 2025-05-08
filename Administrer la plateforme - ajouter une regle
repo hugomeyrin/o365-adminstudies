@@ -1,0 +1,39 @@
+allez sur exchange 
+Centre d'administration Exchange
+       Tableau de board 
+       destinataires 
+       autorisations 
+       gestion de la conformite 
+       organisation
+       protection 
+   --> Flux de courrier 
+       mobile 
+       dossiers publics 
+       messagerie unifie 
+       hybride 
+
+......................
+
+Nouvelle regle 
+
+Nom 
+Rediection Mail Gaetan 
+
+Appliquer cette regle si:
+  si le destinataire est ---> selectioner gaetan 
+  rediriger le message vers --> selectioner Jules (responsable de gaetan)
+Choisir un mode pour cette regle:
+  Appliquer 
+  test avec Conseils de strategie 
+  test sans conseils de strategie 
+
+  Activer cette regle a la date suivante:
+   mardi 06?08?2025 08:00 (exemple)
+  Cette regle expire a la date suivante 
+   Vendredi 09?08?2025 08:00 (exemple)
+
+  Ne plus traiter des regles (desactive)
+  diferer le message si le traitement de la regle n'est pas termine 
+
+  Faire correspondre si le traitement de la regle n'est pas termine 
+   En-tete 
