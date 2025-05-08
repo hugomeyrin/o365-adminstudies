@@ -1,0 +1,49 @@
+admin.microsoft.com 
+   *Centre d'administration 
+      -Exchange <-- 
+      -Teams 
+      -Sharepoint 
+      -OneDrive 
+      -Yammer 
+      -Powerapps 
+      -Flow 
+      -Securite et conformite 
+      -Azure active Directory 
+
+...................................................
+Exchange 
+
+Centre d'administration Exchange 
+    + Destinataires 
+           + Boites aux lettres 
+
+               Utilisateurs 
+                gaetan   Messagerie unifiee (desactivee)
+                              je peux activer 
+
+Peripheriques mobiles 
+
+desactiver ActiveSync Exchange 
+Desactiver OWA pour les appareils 
+Afficher les details 
+
+Convertir en boite aux lettres partagee
+Archive locale (desactivee)
+
+paramettres chez utilisateur gaeta
+     general
+     utilisation des boites aux lettres 
+     information sur le contact 
+     organisation
+     adresse de courrier 
+     foncionalites de boite aux lettres  -->   Strategie de partage 
+                                         -->   strategie d'attribution de role 
+                                         -->   Strategie de retention
+                                         -->   Strategie de carnets d'addresse 
+                                         --> Fonctions Telephoniques et vocales 
+
+
+
+    membre de     
+    info courrier 
+    delegation des boite aux lettres --> quelq'un qui envoi en tant que gaetan 
