@@ -37,7 +37,15 @@ Tous
 ID du message 
 
 Direction
-Tous 
+Tous  <-- 
+entrant
+sortant
 
 Adresse IP d'origine du client 
+
+Choisissez le type de rapport 
+
+Rapport de synthèse   <---
+Rapport de synthése amélioré 
+Rapport détaillé 
 
