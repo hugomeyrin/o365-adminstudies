@@ -1,0 +1,9 @@
+Cliquez sur le nom de l'organization cree au prealable 
+et cliquez new backup job
+Nom 
+------------------------------------------
+()Backup entire organization 
+(V)Backup the following objects --- add --- (users) <--- 
+                                           (Groups)
+                                           (Sites)
+                                           (Organization)
