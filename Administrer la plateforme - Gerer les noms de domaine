@@ -62,5 +62,18 @@ Jeu de caracteres MIME
 (Western european iso)
 Jeu de caracteres non-MIME 
 (Western European iso)
+-------------------------------------------------------------------------------------------------------
+Centre d'administration Exchange 
+Flux de Courrier
+Connecteurs 
+Nouveau Connecteur 
 
+Nom 
+Domaine inyourcloud.fr 
+Description 
+Transfert de mail vers les utilisateurs 
+
+que voulez-vous faire apres l'enresgistrement du connecteur 
+(V)Activer 
+(V)Coserver les en-tetes de message Exchange internes 
 
