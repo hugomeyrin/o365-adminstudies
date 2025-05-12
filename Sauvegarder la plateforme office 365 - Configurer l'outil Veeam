@@ -1,1 +1,41 @@
+Veeam Backup for microsoft Office 365 
+ip   9191
+SRV-VEEAM \ Administrateur 
 
+(V)Use Windows session authentication 
+
+
+
+Selectioner son fichier de license 
+
+la console veeam:
+organisations 
+
+
+
+
+
+organisations 
+Backup infrastructure   <-- selectionez cette option 
+-------------------------------------------------------------------------------------
+Beckup Proxies              :                             SRV-Veeam    9193    3.0.0.422    Default bacup proxy 
+Backup repositories         :
+
+
+
+je peux cliquer Add repository  
+
+Add repository 
+ Nom 
+
+Backup proxy 
+  SRV veeam (Default backup) 
+
+
+path 
+SRV-veeam 
+  E:\ backup dossier 
+
+Retention 
+3years 
+next finish 
