@@ -1,0 +1,36 @@
+admin -- Flux de courrier -- domaines distants:
+
+Nom:
+Default 
+
+Domaine distant:
+*
+Types de reponses automatiques d-absence du bureau:
+  ()Aucune 
+  (V) Autoriser uniquement les reponses d'absence du bureau externes 
+  ()Autoriser les reponses d'absence du bureau externes et existantes 
+  ()Autoriser les reponses d'absence du bureau internes 
+
+
+Reponses automatiques:
+(V) Autoriser  les reponses automatiques 
+()Autoriser le transfert automatique 
+
+
+Rapports de message 
+(V) Autoriser les rapports de remise 
+()Autoriser les notifications d'echec de remise 
+()Autoriser les notifications de transfert de reunion 
+
+
+Utiliser le format RTF:
+()Toujours 
+(V) Suivre les parametres de l'utilisateur 
+
+Jeu de caracteres pris en charge 
+Jeu de caracteres MIME
+(Western european iso)
+Jeu de caracteres non-MIME 
+(Western European iso)
+
+
