@@ -1,0 +1,18 @@
+Plateforme PAAS 
+Donnees appartenant au client 
+Pas de sauvegarde fournie par Microsoft 
+Sauvegarde partielle ou complete de la plateforme 
+Permet de configurer la retention souhaitee 
+Produit soumis a licence 
+___________________________________________________________________________________________________________________
+
+la retention peux ller 2 mois, 6 mois, 1 an, 5 ans, 10 ans 
+
+Veeam pour office 365:
+Sauvegarde de shrepoint
+onedrive
+teams 
+autoriser les ports sur le parefeu pour autoriser l'app a sauvegarder 
+
+___________________________________________________________________________________________________________________
+
