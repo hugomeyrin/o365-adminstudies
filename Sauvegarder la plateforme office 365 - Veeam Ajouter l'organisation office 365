@@ -1,0 +1,32 @@
+Allez sur le logiel Veeam ( sur le serveur Windows AD ) 
+Organizations 
+add Organizations 
+Cliquez sur Microsoft Office 365 
+------------------------------------------------------
+Organization Type 
+Microsoft Office 365 
+
+(V)Exchange online 
+(V)Sharepoint Online and OneDrive for Business 
+____________________________________________________
+Region 
+(suisse)
+
+Select authentication method 
+  () Modern Authentication (MFA)
+  (V) Basic Authentication (Legacy authentication to access the Office 365 services on behalf of a user 
+
+_______________________________________________________
+
+Exchange online credentials (mettre une compte admin)
+  Username 
+  Password 
+
+    (V)Grant this account required roles and permissions 
+    (V)Use the same credentials for sharepoint online and Onedrive for Business 
+
+________________________________________________________________________________________________________________________
+next 
+
+et le check va voir si nous avons tout les details pour se connecter et standards pour se connecter 
+
