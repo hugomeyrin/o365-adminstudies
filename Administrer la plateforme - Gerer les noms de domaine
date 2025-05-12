@@ -77,3 +77,15 @@ que voulez-vous faire apres l'enresgistrement du connecteur
 (V)Activer 
 (V)Coserver les en-tetes de message Exchange internes 
 
+uniquement lorsque les courriers sont envoyes a ces domaines 
++
+inyourcloud.fr 
+suivant 
+------------------------------------------------------------------------
+Comment souhaitez-vous router les courriers 
++
+soit un FQDN ou addresse ipv4
+-------------------------------------------------------------
+TLS  
+certificat 
+-----------------------------------------------------------------------------------------
