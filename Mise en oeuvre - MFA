@@ -1,0 +1,43 @@
+Ajoute un niveau de securite complementaire 
+Appel telephonique, message texte ou une application
+Deuxieme facteur obligatoire pour se connecter 
+Acces securise en cas de compromission du mot de passe 
+
+
+--------------------------------------------------------------------------------
+
+Implementer la fonctionnalite multifacteur 
+
+Utilisateurs 
+Utilisateurs actifs 
+cliquez sur le nom de l'utilisateur ---> Gaetan 
+descendez sur autres parametres 
+  --> Gerer l'authentification multifacteur 
+______________________________________________________________________________________________
+Authentification Multifacteur 
+Utilisateurs        Parametres du service
+
+
+Utilisateurs :
+Selectionez a nouveau l'utilisateur 
+         et a droite il y a quick steps:
+          activer 
+          Gerer les parametres utilisateur 
+
+options:
+()Exiger que les utilisateurs selectionnes specifiant de nouveau des methodes de contact 
+()Supprimer tous les mots de passe d'application existants qui ont ete generes par les utilisateurs selectiones 
+()Restaurer l'authentification multifacteur pour tous les appareils memorises 
+
+Parametre du service 
+Mot de passe d'application
+(V)autoriser les utilisateurs a creer des mots de passe d'application pour se connecter a des applications sans navigateur 
+   Ne pas autoriser.........
+
+options de verification 
+
+Methodes disponibles pour les utilisateurs 
+(V)Appel telephonique 
+(V)SMS par telephone 
+(V) code de verification  partir de l'application mobile ou du jeton materiel 
+
