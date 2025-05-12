@@ -1,3 +1,30 @@
+admin.microsoft.com 
+allez vers le bas, jusq'ua en trouve le flux de courrier 
+
+Flux de courrier 
+-------------------------------------------------------------------------------------
+     Regles     Suivis des messages     domaines accepte    domaines distants    connecteurs 
+                                             ^
+                                             |     
+
+
+Domaines:
+nibonnet.fr 
+__________________________________________________
+(V) Fait autorite: le courrier n'est remis qu'aux destinataires valides de cette 
+organisation Exchange. Tous les courriers associes a des destinations inconnus sont rejetes 
+
+
+il faudra avoir un MX
+
+
+Domaines Distants (onglet)
+Nom 
+    Default 
+
+
+
+
 admin -- Flux de courrier -- domaines distants:
 
 Nom:
