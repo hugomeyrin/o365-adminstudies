@@ -6,4 +6,35 @@ Nom
 (V)Backup the following objects --- add --- (users) <--- 
                                            (Groups)
                                            (Sites)
-                                           (Organization)
+
+
+(Organization)
+
+--------------------------------------------------------
+La liste va s'afficher des utilisateurs 
+je peux aussi exclure les utilisateurs 
+ANNA
+VITOR 
+TOTO 
+PAPAT
+-------------------------------------------------------
+
+Proxy server backup 
+SRV-VEEAM 
+-------------------------------------------------------
+
+NEW BACKUP JOB 
+
+() run the job automatically 
+   Daily at this time (00:00) Everyday 
+
+(V) Retry failed objects processing  ( 3 ) times 
+    Wait Before each retry attempt for  (10) minutes 
+
+()Terminate the job if it exceeeds allowed backup window  (window) (Button)
+
+()Start the job when I click create 
+
+----------------------------------------------------------------
+
+Click droit sur la sauvegarde start action
