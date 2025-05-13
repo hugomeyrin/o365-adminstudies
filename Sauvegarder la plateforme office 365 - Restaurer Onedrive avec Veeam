@@ -1,0 +1,21 @@
+Pour tester la restauration / Sauvegarde  
+
+Allez sur le onedrive de l'utilsateur 
+ex: hugo 
+Supprimer et dans la corbeille aussi 
+
+-------------------------------------------
+
+Restauration De la sauvegarde Veeam
+allez sur le serveur SRV-Veeam 
+  cliquez sur l'organisation 
+       nom de la sauvegarde 
+             (right click)
+                  Explore latest Onedrive state of .........(date)
+                  or Explore Onedrive point-in-time state
+
+Organizations 
+  Organisation de prod 
+      --> Gaetan 
+      --> hugo   <-- cliquez 
+                      Nous aurons les fichiers originaux a recup 
