@@ -1,0 +1,32 @@
+Restaurer un email depuis la boite exchange:
+
+J'ai un mail de une boite, l'utilisateur supprime un email 
+elements supprimer aussi 
+
+Allons aussi sur le serveur SRV-Veeam:
+Nous allons ouvrir le logiciels Veeam 
+Cliquer sur l'organizations 
+    Organisation de prod 
+         ---> Selectionner Explore Exchange point-in-time state 
+
+
+I will have :
+
+all stores:
+  Organisation de prod (Sauvegarde Journaliere)
+       Gaetan 
+       Vitor 
+            ---> Archive 
+            ---> Boite de reception          <--- cliquer sur l'email   <--- dans le menu en haut j'ai :  Restore Items :Restore to olivier 
+            ---> Boite d'envoi                                                                         :  Export Items 
+            ---> Brouillons                                                                            :  Save Items 
+            ---> Calendrier                                                                            :  Send Items : Sent to Hugo@it.ch
+            ---> Contacts                                                                                            : Send to 
+            ---> Courrier Indesirable 
+            ---> Elements envoyes 
+            ---> Elements supprimes 
+            ---> Historiques des conversations 
+            ---> Journal 
+            ---> Notes 
+            ---> Permanently Deleted Items 
+            ---> Taches 
