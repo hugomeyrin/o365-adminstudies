@@ -1,0 +1,60 @@
+admin.microsoft.com 
+Utilisateurs
+  Utilisateurs actifs 
+     Ajouter un utilisateur 
+                   nom   prenom 
+                  Nom complet 
+
+nom d'utilisateur@availability-blog.com 
+
+Parametres de mot passe:
+  ()Generer automatiquement un mot de passe 
+  (V) Me laisser creer le mot de passe 
+          Mot de passe:
+
+   (V) Demander a cet utilisatuer de modifier son mot de passe lors de sa premiere connexion 
+   ( ) Envoyer le mot de passe par courrier a la fin de l'operation
+
+-------------------------------------------------------------
+
+Selectionner un lieux 
+(france)
+
+Licenses (1)
+  Attribuer une license de produit a l'utilisateur 
+   (V)Office 365 E3 
+  Creer un utilsateur sans license de produit (non recommande)
+----------------------------------------------------------------------
+Applications 
+(choisir les apps O365 que l'utilisateur aurait access)
+
+----------------------------------------------------------------------
+
+Roles 
+(V)Utilisateur (sans acces administrateur)
+
+()Administrateur general 
+
+Utilisateurs et groupes 
+(V) admnistrateur de gestion des utilisateurs 
+() Administrateur de services federes 
+() Administrateur du support technique 
+
+Facturation
+()Administrateur de facturation
+
+Roles specialises courants 
+() Administrateur du service Teams 
+() Administrateur Exchange 
+() Administrateur Sharepoint
+___________________________________________________________________________
+
+Information du Profil 
+
+nom 
+prenom 
+telephone 
+addresse postale 
+
+(suivant)
+(Fin de l'Ajout)
