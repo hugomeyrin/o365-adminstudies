@@ -1,0 +1,43 @@
+Je vais dans office.com avec une compte administrator E5 
+admin icon :
+
+(ce nom de domain va etre cree au niveau de microsoft et pas dans le registrar:
+LE centre d'administration:
+  --> Parametres 
+       ---> Domaines 
+
+----------- Domaines ----------------------------
+Ajout d'un domaine 
+   Entrez un nom de domaine 
+        toutlap@dfc.org
+------------------------------------------------------
+Verification 
+-------------------------------------------------------
+() Courrier de verification 
+(V) Ajouter un enregistrement TXT a la place 
+
+(Suivant)
+-------------------------------------------------------
+
+Verification du domaine 
+
+
+Enregistrement TXT    Enregistrement MX 
+Nom TXT: @
+Valeur TXT: MS=ms53291978
+Duree de vie: 3600 
+
+je vais chez infomaniak 
+DNS zone editor : ajouter un enregistrement 
+Type TXT: nom availability-blog.com  TTl: 3600 IN TXT  MS=ms53291978
+              ou @   
+
+--------------------------------------------------------------
+Configurer vos services en ligne 
+
+(V)Configurer mes services en ligne automatiquement (recommande)
+
+()Je compte gerer mes propes enregistrements DNS
+
+(Suivant)
+----------------------------------------------------------------------
