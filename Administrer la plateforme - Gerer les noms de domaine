@@ -89,3 +89,23 @@ soit un FQDN ou addresse ipv4
 TLS  
 certificat 
 -----------------------------------------------------------------------------------------
+Choisir de vos services en ligne 
+(V)Exchange 
+....
+....
+
+Mettre a jour les parametres DNS 
+enregistrements MX 
+0    @   availabilityblog-com03b.mail.protction.outlook.com     3600 
+
+enresgistrements CNAME 
+autodiscover    autodiscover.outlook.com                        3600 
+
+
+enresgistrements TXT 
+@               v=spf1 include:spf.protection.outlook.com -all     3600 
+
+----------------------------------------------------------------------------------------------
+
+
+ 
