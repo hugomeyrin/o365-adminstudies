@@ -1,0 +1,58 @@
+Synchronisation du hash 
+
+SRV WINDOWS   VERS   INTUNE 
+                     OFFICE 365 
+chaque 30 min il va checker la sync
+
+Interaction limitee avec l'infrastructure On-Permise 
+
+Continuite de service meme en cas de coupure lien WAN 
+
+AZure AD Connect necessaire 
+
+Hash du mot de passe envoye en base Azure AD 
+------------------------------------------------------------------------
+
+Federation ADFS 
+
+en local
+SRV DC 
+SRV 
+SRV 
+  |
+parefeu 
+  |
+Cloud:
+Intune 
+O365 
+
+Pour ce modele nous  allons avoir un serveur WAP  (Web Access Proxy)
+il va recup l'authentification de l'utilisateur 
+qui va envoyer au serveur ADFS  
+IL VA envoyer au domaine controleur de domaine et lui va comparer la mot de passe si cella correspond 
+
+--------------------------------------------------------------------------------------------------------------------
+
+La federation avec ADFS 
+
+Interaction infrastructure On-Premise 
+
+Plus de service en cas de coupure de lien WAN 
+
+Azure AD Connect necessaire 
+
+Aucun mot de passe envoye dans Azure AD 
+-----------------------------------------------------------------------------------------------------------------------
+
+Authentification Directe 
+
+
+SRV DC 
+SRV
+ |
+parefeu 
+ |
+Cloud
+Intune
+O365 
+
