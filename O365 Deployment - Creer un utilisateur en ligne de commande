@@ -1,0 +1,21 @@
+ouvrez un powershell comme administrateur 
+Install-module MSOnline 
+cls 
+$userCredential=get-credential 
+---------------------------------------------------------------------------------------
+Une fenetre de Demande d'informations d'identification vont etre la:
+nicolas@formo365.onmicrosoft.com 
+mot de passe 
+--------------------------------------------------------------------------------------------
+
+Connect-MsolService  -Credential $userCredential 
+Get-MsolAccountSku
+formO365:ENTREPRISEPACK 
+
+
+New-MsolUser -DisplayName "Suzanne CRESSAC" -FirstName Suzzane -LastName Cressac -UserPrincipalName Suzzane@nibonnet.fr -UsageLocation FR -LicenseAssignment formO365:ENTREPRISEPACK
+
+Resultat:
+
+Password   UserPrincipalName   DisplayName     IsLicensed 
+Daw79412   Suzanne@nibonnet.fr Suzanne CRESSAC  True 
