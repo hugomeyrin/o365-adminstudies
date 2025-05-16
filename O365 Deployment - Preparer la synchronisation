@@ -1,0 +1,20 @@
+on y va sur votre serveur windows server 
+    Utilisateurs et ordinateurs Active Directory
+      ---{ 
+        OU - Siege 
+              Groupes ----) GSADM_OFFICE365_SYNCHRO
+              Utilsateurs --) avant etait hugo@formation.local vers hugo@nibonnet.fr (changer le nom de domaine dans l'option proprietes )
+
+                              CptSvc_Synchro@formation.local 
+
+---------------------------------------------
+POUR SYNCHRONISER LES UTILISATEURS plus facilement 
+allez sur groupe -- GSADM_OFFICE365_SYNCHRO --- AJOUTER les utilisateurs et cherchez ceux qui sont par nom de domaine externe @nibonnet.fr
+
+Pour sync les mot de passe dans Active directory vers Azure Active 
+  je vais dans Affichage -- Fonctionalites avancees 
+   je vais dans le foret formation.local clique droit proprietes --- securite --- ajouter -- CptSvc Synchro (Cpt_Synchro@formation.local) toujours sur proprietes cocher la case 
+          ``Replication de toutes les modifications de l'annuaire``  Autoriser (V)
+          ``Replication des changements de repertoire`` Autoriser (V)
+
+je peux repliquer le mots de passe avec compte CptSvc
